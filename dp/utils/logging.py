@@ -11,4 +11,4 @@ def get_logger(name: str) -> Logger:
     """
 
     logger = getLogger(name)
-    return 
+    return logger
